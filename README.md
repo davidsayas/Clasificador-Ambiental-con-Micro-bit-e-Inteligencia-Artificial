@@ -1,2 +1,2 @@
-# Clasificador-Ambiental-con-Micro-bit-e-Inteligencia-Artificial
+#🌫️Clasificador-Ambiental-con-Micro-bit-e-Inteligencia-Artificial
 Sistema de monitoreo ambiental en tiempo real que utiliza un Árbol de Decisión entrenado con scikit-learn para clasificar el nivel de riesgo en tres categorías: Seguro, Alerta y Peligro, según las lecturas de gas y temperatura. Proyecto académico desarrollado para el curso de Inteligencia Artificial en la Universidad Industrial de Santander (UIS).
