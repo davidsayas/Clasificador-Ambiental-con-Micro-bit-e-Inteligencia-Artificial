@@ -1,6 +1,6 @@
 ## Clasificador Ambiental con Micro:bit e Inteligencia Artificial
-Sistema de monitoreo ambiental en tiempo real que utiliza un Árbol de Decisión entrenado con scikit-learn para clasificar el nivel de riesgo en tres categorías segun la concetracion de gases y temperaturas: Seguro, Alerta y Peligro, según las lecturas de gas y temperatura, enfocado en la cuidad de barrancabermeja.
-Proyecto académico desarrollado para el curso de Inteligencia Artificial en la Universidad Industrial de Santander (UIS).
+Sistema de monitoreo ambiental en tiempo real que utiliza un Árbol de Decisión entrenado con scikit-learn para clasificar el nivel de riesgo en tres categorías segun la concetracion de gases y temperaturas: Seguro, Alerta y Peligro, según las lecturas de gas y temperatura, enfocado en la cuidad de barrancabermeja. (UIS)
+
 
 ## Descripcion general
 
