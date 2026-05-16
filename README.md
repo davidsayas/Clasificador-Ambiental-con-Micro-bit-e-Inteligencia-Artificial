@@ -10,3 +10,10 @@ El proyecto implementa un flujo completo de Machine Learning
 - Entrenamiento de un Árbol de Decisión con scikit-learn que aprende a clasificar tres estados ambientales.
 - Despliegue del modelo en una tarjeta BBC micro:bit, donde el árbol se ejecuta como una cadena de condicionales en MakeCode.
 - Resultado en tiempo real reflejado en la matriz de leds de la Micro:bit
+
+## 🧮Umbrales aprendidos por el modelo de clasificacion
+
+| Etiqueta | Estado | Icono de led | Condicion aprendida |
+| :--- | :---: | --- | ---:|
+| Fila 1, Dato 1 | Fila 1, Dato 2 | Fila 1, Dato 3 |
+| Fila 2, Dato 1 | Fila 2, Dato 2 | Fila 2, Dato 3 |
