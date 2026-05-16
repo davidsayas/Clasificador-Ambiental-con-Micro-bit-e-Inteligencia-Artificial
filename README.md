@@ -6,7 +6,7 @@ Proyecto académico desarrollado para el curso de Inteligencia Artificial en la 
 
 El proyecto implementa un flujo completo de Machine Learning
 
-+Generación de datos sinteticos que simulan lecturas convertidas analogicamente de un sensor de gas (rango 0-1023) y temperatura ambiente.
+- Generación de datos sinteticos que simulan lecturas convertidas analogicamente de un sensor de gas (rango 0-1023) y temperatura ambiente.
 *Entrenamiento de un Árbol de Decisión con scikit-learn que aprende a clasificar tres estados ambientales.
 *Despliegue del modelo en una tarjeta BBC micro:bit, donde el árbol se ejecuta como una cadena de condicionales en MakeCode.
 *Resultado en tiempo real reflejado en la matriz de leds de la Micro:bit
