@@ -18,4 +18,12 @@ El proyecto implementa un flujo completo de Machine Learning
 | 🟢 | Seguro| Cuadrado | gas ≤ 301 |
 | 🟡 | Alerta | Símbolo "No" | 301 < gas ≤ 698|
 | 🔴 | Peligro | Calavera | gas > 698|
+- Precisión del modelo: 100% sobre el conjunto de entrenamiento.
+## 🛠️ Requisitos
+- BBC Micro:bit (V1 o V2)
+- Cable Usb
+## 💻 Software
+- Scikit-learn
+- Editor [Make code for microbit ](https://makecode.microbit.org/)
+- 
 
