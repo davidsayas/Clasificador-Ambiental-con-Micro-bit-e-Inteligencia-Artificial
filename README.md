@@ -25,5 +25,5 @@ El proyecto implementa un flujo completo de Machine Learning
 ## 💻 Software
 - Scikit-learn
 - Editor [Make code for microbit ](https://makecode.microbit.org/)
-- 
+
 
